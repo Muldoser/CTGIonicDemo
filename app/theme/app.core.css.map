@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "file": "app.core.css",
+  "sources": [
+    "app.core.scss",
+    "../pages/getting-started/getting-started.scss",
+    "../pages/list/list.scss",
+    "../pages/extra/extra.scss",
+    "../pages/person-details/person-details.scss"
+  ],
+  "sourcesContent": [],
+  "mappings": ";ACEE,gBAAgB,CAAC,CAAC,CAAhB;EACA,MAAM,EAAE,MAAO;EACf,WAAW,EAAE,IAAK;EAClB,SAAS,EAAE,IAAK,GAHf",
+  "names": []
+}
